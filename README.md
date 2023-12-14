@@ -1,16 +1,26 @@
-### Hi there 👋
+**Software Engineer | Magento Developer | Passionate Coder**
 
-<!--
-**arunhp21/arunhp21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 !  I'm Arun, a Magento developer with 4+ years of experience building beautiful and functional e-commerce experiences. My code is fueled by a love for clean architecture, performance optimization, and pushing the boundaries of what Magento can do.
 
-Here are some ideas to get you started:
+**Here's what you'll find on my profile:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*  **Projects:** Explore my open-source contributions and personal projects showcasing my skills in Magento development, custom modules, and front-end technologies.
+*  **Articles & Tutorials:** Delve into my insights on Magento development, best practices, and troubleshooting tips I've learned along the way.
+*  **Connect:** Reach out for collaborations, discussions, or just to say hello! I'm always happy to connect with fellow Magento/Adobe Commerce enthusiasts.
+
+**My Tech Stack:**
+
+*  **Magento:** Certified Adobe Commerce Developer
+*  **Front-End:** HTML5, CSS3, JavaScript, ReactJS
+* ️**Back-End:** PHP, MySQL, Git
+*  **DevOps:** GitLab CI/CD
+
+**Connect with me:**
+
+*  Website: [[arunhp21.github.io](https://arunhp21.github.io/)]
+*  Twitter: [[ArunSha54498779](https://twitter.com/ArunSha54498779)]
+*  LinkedIn: [[arunhp21](https://in.linkedin.com/comm/in/arunhp21)]
+*  Email: [[arunkbps@gmail.com](mailto:arunkbps@gmail.com)]
+
+**Always learning, always coding. **
+
