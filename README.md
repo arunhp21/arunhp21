@@ -18,7 +18,7 @@ Hi there 👋 !  I'm Arun, a Magento developer with 4+ years of experience build
 **Connect with me:**
 
 *  Website: [[arunhp21.github.io](https://arunhp21.github.io/)]
-*  Twitter: [[ArunSha54498779](https://twitter.com/ArunSha54498779)]
+*  Twitter: [[twitter.com/arunhp21]([https://twitter.com/ArunSha54498779](https://twitter.com/arunhp21))]
 *  LinkedIn: [[arunhp21](https://in.linkedin.com/comm/in/arunhp21)]
 *  Email: [[arunkbps@gmail.com](mailto:arunkbps@gmail.com)]
 
