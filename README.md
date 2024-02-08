@@ -24,3 +24,9 @@ Hi there 👋 !  I'm Arun, a Magento developer with 4+ years of experience build
 
 **Always learning, always coding.**
 
+<a href="https://github.com/arunhp21">
+  <img align="center" width="auto" height="165" src="https://github-readme-stats.vercel.app/api?username=arunhp21&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/arunhp21" />
+</a>
+<a href="https://github.com/arunhp21">
+  <img align="center" width="auto" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunhp21&langs_count=8&theme=gruvbox&layout=compact" />
+</a>
