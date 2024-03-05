@@ -10,9 +10,9 @@ Hi there 👋 !  I'm Arun, a Magento developer with 4+ years of experience build
 
 **My Tech Stack:**
 
-*  **Magento:** Certified Adobe Commerce Developer
+*  **Magento:** Certified Adobe Commerce Developer, Hyvä
 *  **Front-End:** HTML5, CSS3, JavaScript, ReactJS
-* ️**Back-End:** PHP, MySQL, Git
+* ️ **Back-End:** PHP, MySQL, Git
 *  **DevOps:** GitLab CI/CD
 
 **Connect with me:**
