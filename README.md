@@ -27,6 +27,8 @@ Hi there 👋 !  I'm Arun, a Magento developer with 4+ years of experience build
 <a href="https://github.com/arunhp21">
   <img align="center" width="auto" height="165" src="https://github-readme-streak-stats.herokuapp.com?user=arunhp21)]" />
 </a>
+<br>
+<br>
 <a href="https://github.com/arunhp21">
   <img align="center" width="auto" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunhp21&langs_count=8&layout=compact" />
 </a>
