@@ -24,9 +24,7 @@ Hi there 👋 !  I'm Arun, a Magento developer with 4+ years of experience build
 
 **Always learning, always coding.**
 
-<a href="https://github.com/arunhp21">
-  <img align="center" width="auto" height="165" src="https://streak-stats.demolab.com/?user=arunhp21)]" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arunhp21)](https://git.io/streak-stats)
 <br>
 <br>
 <a href="https://github.com/arunhp21">
