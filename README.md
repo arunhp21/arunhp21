@@ -1,6 +1,6 @@
 **Senior Software Engineer | Magento/Adobe Commerce Developer**
 
-Hi there 👋 !  I'm Arun, a Magento developer with 4+ years of experience building beautiful and functional e-commerce experiences. My code is fueled by a love for clean architecture, performance optimization, and pushing the boundaries of what Magento can do.
+Hi there 👋 !  I'm Arun, a Magento developer with 5+ years of experience building beautiful and functional e-commerce experiences. My code is fueled by a love for clean architecture, performance optimization, and pushing the boundaries of what Magento can do.
 
 **Here's what you'll find on my profile:**
 
